@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js and Data Structure and Algorithms**
 
-- 💬 Ask me about **HTML,CSS,TAILWIND,JS,JAVA,SQL,MySQL,PYTHON**
+- 💬 Ask me about **HTML,CSS,TAILWIND,JS,JAVA,SQL,MySQL**
 
 - 📫 How to reach me **venkatasathwik12604@gmail.com**
 
